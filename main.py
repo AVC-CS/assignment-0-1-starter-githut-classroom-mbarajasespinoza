@@ -1,9 +1,12 @@
 def main():
 
     ##############################
+    # Michelle Barajas Espinoza
     # make your code below
     # print('Hello World')
     ##############################
+    print("Hello World")
+    print("CS7: Python Programming")
 
 
 if __name__ == '__main__':
